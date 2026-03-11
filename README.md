@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Solihin Sarib
 
-### Bachelor of Information Technology (Corporate Management) @ UTP
+### Bachelor of Information Technology @ UTP
 **IT Practitioner | Aspiring Software Engineer | Network & Security Enthusiast**
 
 <p align="left">
@@ -11,7 +11,7 @@
 
 ## About Me
 
-I am a **Bachelor of Information Technology (Corporate Management)** student at **Universiti Teknologi PETRONAS (UTP)**. I specialize in bridging the gap between complex technical systems and strategic corporate objectives.
+I am a **Bachelor of Information Technology** student at **Universiti Teknologi PETRONAS (UTP)**. I specialize in bridging the gap between complex technical systems and strategic corporate objectives.
 
 With a strong foundation in **Software Engineering** and **Cybersecurity**, I focus on building secure, data-driven solutions that solve real-world problems.
 
