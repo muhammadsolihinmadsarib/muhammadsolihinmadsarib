@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="left">
 
 # Muhammad Solihin Sarib
 **IT Engineering & Corporate Management Student @ UTP**
