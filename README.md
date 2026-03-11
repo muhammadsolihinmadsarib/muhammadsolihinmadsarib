@@ -1,7 +1,12 @@
 # Hi, I'm Muhammad Solihin
 
-### Bachelor of Information Technology @ UTP
-**IT Practitioner | Aspiring Software Engineer | Network & Security Enthusiast**
+> **Bachelor of Information Technology @ UTP**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-IT%20Practitioner-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-3382ed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Specialty-Network%20%26%20Security-black?style=for-the-badge" />
+</p>
 
 <p align="left">
 
