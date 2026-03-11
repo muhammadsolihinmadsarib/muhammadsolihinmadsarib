@@ -35,10 +35,13 @@ I am an IT student at **Universiti Teknologi PETRONAS (UTP)** in Malaysia, speci
   <img src="https://skillicons.dev/icons?i=arduino,bash,linux,figma,git" />
 </p>
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadsolihinmadsarib&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsolihinmadsarib&theme=tokyonight&hide_border=true&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadsolihinmadsarib&show_icons=true&theme=transparent&hide_border=true&title_color=3382ed&icon_color=3382ed&text_color=ffffff&count_private=true" alt="Solihin's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsolihinmadsarib&theme=transparent&hide_border=true&title_color=3382ed&text_color=ffffff&layout=compact" alt="Top Languages" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadsolihinmadsarib&theme=transparent&hide_border=true&stroke=3382ed&ring=3382ed&fire=3382ed&currStreakLabel=3382ed" alt="GitHub Streak" />
 </p>
