@@ -1,12 +1,17 @@
 # Hi, I'm Muhammad Solihin
 
-> **Bachelor of Information Technology @ UTP**
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-IT%20Practitioner-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-3382ed?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Specialty-Network%20%26%20Security-black?style=for-the-badge" />
-</p>
+# 🧑‍💻 Muhammad Solihin Sarib
+**IT Engineering & Corporate Management Student @ UTP**
+
+`Software Engineering` • `Network Infrastructure` • `Information Assurance`
+
+[![](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-solihin-mad-sarib) 
+[![](https://img.shields.io/badge/Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadsolihinsarib@gmail.com)
+
+---
+</div>
 
 <p align="left">
 
