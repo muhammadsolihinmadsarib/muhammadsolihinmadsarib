@@ -11,7 +11,16 @@
 
 ## About Me
 
-I am an IT student at **Universiti Teknologi PETRONAS (UTP)** in Malaysia, specializing in the intersection of **system automation** and **corporate IT management**. I bridge the gap between technical infrastructure and business efficiency.
+I am a **Bachelor of Information Technology (Corporate Management)** student at **Universiti Teknologi PETRONAS (UTP)**. I specialize in bridging the gap between complex technical systems and strategic corporate objectives.
+
+With a strong foundation in **Software Engineering** and **Cybersecurity**, I focus on building secure, data-driven solutions that solve real-world problems.
+
+- 🚀 **Technical Versatility:** Experienced in full-stack web development, IoT systems, and automated network diagnostics.
+- 📊 **Data-Driven Insight:** Proficient in data science and analytics to turn raw system logs into actionable business intelligence.
+- 🛠️ **Infrastructure at Scale:** Proven ability to manage large-scale hardware deployments (241+ PCs) and complex network configurations.
+- 🤝 **Leadership & Coordination:** Beyond the code, I lead teams and engage stakeholders to ensure technical projects meet corporate timelines and quality standards.
+
+> **Current Mission:** Seeking industry opportunities to apply my expertise in Information Assurance and System Integration while contributing to high-impact technology projects.
 
 ## Tech Stack & Tools
 
