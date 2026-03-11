@@ -1,7 +1,17 @@
 
-<div align="left">
-  
+<div align="center">
+
 # Muhammad Solihin Bin Mad Sarib
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="center" height="120">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=3382ed&background=00000000&width=800&center=true&vCenter=true&lines=Passionate+about+Infrastructure%2C+Security%2C+and+Software+Excellence.;Solving+complex+problems+with+code%2C+scripts%2C+and+systematic+networking." alt="Typing SVG" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 `Software Development & Engineering` • `Computer Networking & Infrastructure` • `IT Support & Systems Administration`
 
@@ -51,6 +61,29 @@ With a strong foundation in **Software Engineering** and **Cybersecurity**, I fo
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsolihinmadsarib&theme=transparent&hide_border=true&title_color=3382ed&text_color=ffffff&layout=compact" alt="Top Languages" width="45%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadsolihinmadsarib&theme=transparent&hide_border=true&stroke=3382ed&ring=3382ed&fire=3382ed&currStreakLabel=3382ed" alt="GitHub Streak" />
+## Activity Pulse
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadsolihinmadsarib&bg_color=00000000&color=3382ed&line=3382ed&point=ffffff&area=true&hide_border=true&area_color=3382ed&custom_title=GitHub%20Contribution%20Pulse" width="100%" alt="Animated Activity Graph" />
 </p>
+
+##
+
+<div align="center">
+<pre>
+ ______     ______     __         __     __  __     __     __   __    
+/\  ___\   /\  __ \   /\ \       /\ \   /\ \_\ \   /\ \   /\ "-.\ \   
+\ \___  \  \ \ \/\ \  \ \ \____  \ \ \  \ \  __ \  \ \ \  \ \ \-.  \  
+ \/\_____\  \ \_____\  \ \_____\  \ \_\  \ \_\ \_\  \ \_\  \ \_\\"\_\ 
+  \/_____/   \/_____/   \/_____/   \/_/   \/_/\/_/   \/_/   \/_/ \/_/ 
+                                                                      
+</pre>
+<p>
+  <code><b>SYSTEM STATUS:</b> ONLINE</code> • <code><b>NETWORK:</b> SECURE</code>
+  <br>
+  <br>
+  <i>"Bridging the gap between complex systems and corporate strategy."</i>
+</p>
+</div>
+
+
