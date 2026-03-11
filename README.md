@@ -9,13 +9,9 @@
   <a href="mailto:muhammadsolihinsarib@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" alt="Email" /></a>
 </p>
 
----
-
 ## About Me
 
 I am an IT student at **Universiti Teknologi PETRONAS (UTP)** in Malaysia, specializing in the intersection of **system automation** and **corporate IT management**. I bridge the gap between technical infrastructure and business efficiency.
-
----
 
 ## Tech Stack & Tools
 
@@ -38,8 +34,6 @@ I am an IT student at **Universiti Teknologi PETRONAS (UTP)** in Malaysia, speci
 <p align="left">
   <img src="https://skillicons.dev/icons?i=arduino,bash,linux,figma,git" />
 </p>
-
----
 
 ## GitHub Statistics
 
