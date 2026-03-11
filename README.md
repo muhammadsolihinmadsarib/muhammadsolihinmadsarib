@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Solihin Sarib
+# Hi, I'm Muhammad Solihin
 
 ### Bachelor of Information Technology @ UTP
 **IT Practitioner | Aspiring Software Engineer | Network & Security Enthusiast**
