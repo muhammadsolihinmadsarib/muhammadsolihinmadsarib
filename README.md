@@ -1,8 +1,7 @@
-# Hi, I'm Muhammad Solihin
 
 <div align="center">
 
-# 🧑‍💻 Muhammad Solihin Sarib
+# Muhammad Solihin Sarib
 **IT Engineering & Corporate Management Student @ UTP**
 
 `Software Engineering` • `Network Infrastructure` • `Information Assurance`
@@ -10,14 +9,8 @@
 [![](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-solihin-mad-sarib) 
 [![](https://img.shields.io/badge/Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadsolihinsarib@gmail.com)
 
----
 </div>
 
-<p align="left">
-
-  <a href="https://www.linkedin.com/in/muhammad-solihin-mad-sarib"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:muhammadsolihinsarib@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" alt="Email" /></a>
-</p>
 
 ## About Me
 
