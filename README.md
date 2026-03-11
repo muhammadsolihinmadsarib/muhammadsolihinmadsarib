@@ -35,7 +35,7 @@ I am an IT student at **Universiti Teknologi PETRONAS (UTP)** in Malaysia, speci
   <img src="https://skillicons.dev/icons?i=arduino,bash,linux,figma,git" />
 </p>
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muhammadsolihinmadsarib&show_icons=true&theme=transparent&hide_border=true&title_color=3382ed&icon_color=3382ed&text_color=ffffff&count_private=true" alt="Solihin's Stats" width="48%" />
