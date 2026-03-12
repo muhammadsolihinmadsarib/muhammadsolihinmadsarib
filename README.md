@@ -59,6 +59,10 @@ With a strong foundation in **Software Engineering** and **Cybersecurity**, I fo
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsolihinmadsarib&theme=transparent&hide_border=true&title_color=3382ed&text_color=ffffff&layout=compact" alt="Top Languages" width="45%" />
 </p>
 
+##
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 ## Activity Pulse
 
 <p align="left">
