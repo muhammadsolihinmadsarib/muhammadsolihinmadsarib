@@ -15,11 +15,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: muhammadsolihinmadsarib
-          SETTING_JSON: '{
-            "background": "transparent",
-            "image_width": 600,
-            "image_height": 300
-          }'
+          SETTING_JSON: '{"background": "transparent", "image_width": 600, "image_height": 300}'
       - name: Commit & Push
         run: |
           git config user.name github-actions
