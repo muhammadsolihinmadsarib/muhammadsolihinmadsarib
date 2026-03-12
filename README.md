@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/1.gif" weidth= "100%">
+  <img src="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fckp5gcuzv7581.gif%3Fwidth%3D1024%26format%3Dmp4%26s%3D78932bb060255023cf20ff132438ec68dfecf3cb" weidth= "100%">
 <h1> Muhammad Solihin Bin Mad Sarib </h1>
 
 <div align="center">
