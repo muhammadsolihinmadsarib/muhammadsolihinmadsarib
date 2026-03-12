@@ -61,7 +61,7 @@ With a strong foundation in **Software Engineering** and **Cybersecurity**, I fo
 
 ## Contribution Graph
 
-![](./profile-3d-contrib/profile-night-view.svg)
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="500">
 
 ## Activity Pulse
 
