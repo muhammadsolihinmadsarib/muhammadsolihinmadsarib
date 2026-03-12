@@ -75,6 +75,15 @@ With a strong foundation in **Software Engineering** and **Cybersecurity**, I fo
   </picture>
 </div>
 
+##
+
+<div allign="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadsolihinmadsarib/muhammadsolihinmadsarib/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammadsolihinmadsarib/muhammadsolihinmadsarib/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/muhammadsolihinmadsarib/muhammadsolihinmadsarib/output/github-snake.svg" />
+</picture>
+</div>
 
 ##
 
