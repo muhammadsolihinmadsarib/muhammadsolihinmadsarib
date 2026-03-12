@@ -77,10 +77,12 @@ With a strong foundation in **Software Engineering** and **Cybersecurity**, I fo
 </div>
 
 ## City
+
 <div align="center">
 <img src="https://i.redd.it/7hj8aevqchra1.gif" alt="GitHub Metrics" style="width:100%; height:280px; object-fit:cover;" />
 </div>
 
+  <img src="assets/2.gif" weidth= "100%">
 ##
 
 <div align="center">
