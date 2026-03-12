@@ -79,9 +79,7 @@ With a strong foundation in **Software Engineering** and **Cybersecurity**, I fo
 
 ## City
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="400">
-</div>
+<img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
 
 ##
 
