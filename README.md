@@ -77,8 +77,9 @@ With a strong foundation in **Software Engineering** and **Cybersecurity**, I fo
 </div>
 
 ## City
-
-<img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
+<div align="center">
+<img src="https://i.redd.it/7hj8aevqchra1.gif" alt="GitHub Metrics" style="width:100%; height:280px; object-fit:cover;" />
+</div>
 
 ##
 
