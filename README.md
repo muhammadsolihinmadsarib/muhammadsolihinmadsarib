@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="1.gif" weidth="100%">
+  <img src=".github/workflows/1.gif" weidth="100%">
 <h1> Muhammad Solihin Bin Mad Sarib </h1>
 
 <div align="center">
