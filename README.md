@@ -1,20 +1,33 @@
 <div align="center">
-<h1> Muhammad Solihin Bin Mad Sarib </h1>
+  <img src="assets/heatmap-logo.svg" alt="heatmap-logo.svg" />
+  
+  <br />
+  <br />
 
-<div align="center">
-  <table width="100%">
+  <table width="100%" style="border-collapse: collapse; border: none;">
     <tr>
-      <td align="center" height="120">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=3382ed&background=00000000&width=800&center=true&vCenter=true&lines=Passionate+about+Infrastructure%2C+Security%2C+and+Software+Excellence.;Solving+complex+problems+with+code%2C+scripts%2C+and+systematic+networking." alt="Typing SVG" />
+      <td align="center" style="border: none;">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3382ed&background=00000000&width=900&center=true&vCenter=true&lines=Passionate+about+Infrastructure%2C+Security%2C+and+Software+Excellence.;Solving+complex+problems+with+code%2C+scripts%2C+and+systematic+networking." alt="Typing SVG" width="100%" />
       </td>
     </tr>
   </table>
-</div>
 
-`Software Development & Engineering` • `Computer Networking & Infrastructure` • `IT Support & Systems Administration`
+  <br />
 
-[![](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-solihin-mad-sarib) 
-[![](https://img.shields.io/badge/Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadsolihinsarib@gmail.com)
+  <p>
+    <code>Software Development & Engineering</code> • 
+    <code>Computer Networking & Infrastructure</code> • 
+    <code>IT Support & Systems Administration</code>
+  </p>
+
+  <br />
+
+  <a href="https://www.linkedin.com/in/muhammad-solihin-mad-sarib">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:muhammadsolihinsarib@gmail.com">
+    <img src="https://img.shields.io/badge/Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 
 </div>
 
