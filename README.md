@@ -65,7 +65,7 @@ With a strong foundation in **Software Engineering** and **Cybersecurity**, I fo
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadsolihinmadsarib&bg_color=00000000&color=3382ed&line=3382ed&point=ffffff&area=true&hide_border=true&area_color=3382ed&custom_title=GitHub%20Contribution%20Pulse" width="100%" alt="Animated Activity Graph" />
 </p>
 
-## Pac-man
+## Pac-Man
 
 <div align="center">
   <picture>
@@ -75,15 +75,11 @@ With a strong foundation in **Software Engineering** and **Cybersecurity**, I fo
   </picture>
 </div>
 
-##
+## Space Shooter
 
-<div allign="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadsolihinmadsarib/muhammadsolihinmadsarib/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammadsolihinmadsarib/muhammadsolihinmadsarib/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/muhammadsolihinmadsarib/muhammadsolihinmadsarib/output/github-snake.svg" />
-</picture>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
 
 ##
 
