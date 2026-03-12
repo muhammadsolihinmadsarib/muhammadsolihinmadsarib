@@ -1,7 +1,6 @@
-
 <div align="center">
-
-# Muhammad Solihin Bin Mad Sarib
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" weidth="100%">
+<h1> Muhammad Solihin Bin Mad Sarib </h1>
 
 <div align="center">
   <table width="100%">
@@ -100,4 +99,6 @@ With a strong foundation in **Software Engineering** and **Cybersecurity**, I fo
 </p>
 </div>
 
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
