@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif" weidth= "100%">
+  <img 
+    src="https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif" 
+    style="width:1200px; max-width:1200px; height:160px;" 
+    alt="GIF Banner" />
 <h1> Muhammad Solihin Bin Mad Sarib </h1>
 
 <div align="center">
