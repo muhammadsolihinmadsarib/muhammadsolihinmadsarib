@@ -67,16 +67,6 @@ With a strong foundation in **Software Engineering** and **Cybersecurity**, I fo
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadsolihinmadsarib&bg_color=00000000&color=3382ed&line=3382ed&point=ffffff&area=true&hide_border=true&area_color=3382ed&custom_title=GitHub%20Contribution%20Pulse" width="100%" alt="Animated Activity Graph" />
 </p>
 
-## Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadsolihinmadsarib/muhammadsolihinmadsarib/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammadsolihinmadsarib/muhammadsolihinmadsarib/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/muhammadsolihinmadsarib/muhammadsolihinmadsarib/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
 ## Pac-man
 
 <div align="center">
@@ -85,6 +75,18 @@ With a strong foundation in **Software Engineering** and **Cybersecurity**, I fo
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammadsolihinmadsarib/muhammadsolihinmadsarib/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/muhammadsolihinmadsarib/muhammadsolihinmadsarib/output/pacman-contribution-graph.svg">
   </picture>
+</div>
+
+##
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="center" height="150">
+        <img src="https://raw.githubusercontent.com/muhammadsolihinmadsarib/muhammadsolihinmadsarib/output/github-contribution-grid-snake.svg" alt="space shooter contribution graph" width="800">
+      </td>
+    </tr>
+  </table>
 </div>
 
 ##
