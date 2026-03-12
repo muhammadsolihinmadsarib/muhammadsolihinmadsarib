@@ -77,17 +77,9 @@ With a strong foundation in **Software Engineering** and **Cybersecurity**, I fo
   </picture>
 </div>
 
-##
+## City
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center" height="150">
-        <img src="https://raw.githubusercontent.com/muhammadsolihinmadsarib/muhammadsolihinmadsarib/output/github-contribution-grid-snake.svg" alt="space shooter contribution graph" width="800">
-      </td>
-    </tr>
-  </table>
-</div>
+
 
 ##
 
