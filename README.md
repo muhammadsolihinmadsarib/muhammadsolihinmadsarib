@@ -1,8 +1,4 @@
 <div align="center">
-  <img 
-    src="https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif" 
-    style="width:1200px; max-width:1200px; height:160px;" 
-    alt="GIF Banner" />
 <h1> Muhammad Solihin Bin Mad Sarib </h1>
 
 <div align="center">
@@ -79,11 +75,6 @@ With a strong foundation in **Software Engineering** and **Cybersecurity**, I fo
   </picture>
 </div>
 
-## City
-
-<div align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/64c9ea21-82be-48a3-a6f5-6d1786a3fc7e/d849dwo-0cdfe0ca-4bbe-43d5-b8d4-6c58db906e1e.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi82NGM5ZWEyMS04MmJlLTQ4YTMtYTZmNS02ZDE3ODZhM2ZjN2UvZDg0OWR3by0wY2RmZTBjYS00YmJlLTQzZDUtYjhkNC02YzU4ZGI5MDZlMWUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bMwkd-0pfPeSgZ9Qgij82MbIxNCG2jvZUOH1j0ZA6xs" weidth= "100%">
-</div>
 
 ##
 
