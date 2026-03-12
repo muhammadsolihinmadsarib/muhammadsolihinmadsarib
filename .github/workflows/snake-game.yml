@@ -1,10 +1,9 @@
-# .github/workflows/snake-game.yml
 name: Generate Snake Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Daily at midnight
-  workflow_dispatch:       # Manual trigger
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -21,10 +20,8 @@ jobs:
       - name: Generate Snake Graph
         uses: Platane/snk@v3
         with:
+          github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          # Optional: change theme or speed
-          # theme: github_dark
-          # speed: 1
 
       - name: Commit & Push to output branch
         uses: EndBug/add-and-commit@v9
