@@ -88,8 +88,8 @@ My hands-on experience includes **web application development, Internet of Thing
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammadsolihinmadsarib&show_icons=true&theme=transparent&hide_border=true&title_color=3382ed&icon_color=3382ed&text_color=ffffff&count_private=true" alt="Solihin's Stats" width="48%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammadsolihinmadsarib&theme=transparent&hide_border=true&title_color=3382ed&text_color=ffffff&layout=compact" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammadsolihinmadsarib&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3382ed&icon_color=3382ed&text_color=ffffff&count_private=true" alt="Solihin's Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammadsolihinmadsarib&hide_border=true&layout=compact&bg_color=0d1117&title_color=3382ed&text_color=ffffff" alt="Top Languages" width="45%" />
 </p>
 
  <br />
